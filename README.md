@@ -26,4 +26,4 @@ The solution is designed to help delivery teams centralize parcel records, autom
 
 ## Documentation
 
-The project documentation is included in `SwiftShip Tracker.docx` and describes the requirement analysis, Salesforce setup, custom object creation, automation plan, AI integration, reporting, and security design.
+The project documentation is included in `SwiftShip Tracker Documentation.docx` and describes the requirement analysis, Salesforce setup, custom object creation, automation plan, AI integration, reporting, and security design.
